@@ -73,3 +73,9 @@ pm2 logs mm
 ```
 pm2 show mm
 ```
+
+
+
+#### Source and text 
+- [digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-use-node-js-and-github-webhooks-to-keep-remote-projects-in-sync)
+- [github.com/MichMich/MagicMirror](https://github.com/MichMich/MagicMirror/wiki/Auto-Starting-MagicMirror)
